@@ -2,7 +2,7 @@
 
 ![0led0](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+*A keyboard made with rpi pico its a 36 keys keyboard with 128*32 oled to display text or anything thing you can edit thsese to change key layout and images on display. *
 
 * Keyboard Maintainer: [spikeypear](https://github.com/meowchao)
 * Hardware Supported: *The PCBs, controllers supported*
