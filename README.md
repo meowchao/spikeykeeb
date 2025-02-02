@@ -1,6 +1,6 @@
 # 0led0
 
-![0led0](imgur.com image replace me!)
+
 
 *A handiwred keyboard made with rpi pico its a 36 keys keyboard with 128X32 oled to display text or anything thing you can edit thsese to change key layout and images on display.*
 
